@@ -1,3 +1,3 @@
 # hello-world
 tutorial example
-I'm new to programming but is eager to learn. 
+I'm new to programming but am eager to learn. 
